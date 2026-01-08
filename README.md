@@ -21,4 +21,5 @@ A Python-based Intelligence tool that scrapes live news articles and performs **
 ## 📥 Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/SamFord061/sentiment-sniper.git](https://github.com/SamsaDon07/sentiment-sniper.git)
+
+   git clone [https://github.com/SamsaDon07/sentiment-sniper.git](https://github.com/SamsaDon07/sentiment-sniper.git)
